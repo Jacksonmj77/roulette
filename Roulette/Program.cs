@@ -6,7 +6,16 @@ namespace Roulette
     {
         static void Main(string[] args)
         {
-          
+            Console.ForegroundColor = ConsoleColor.Blue;
+
+            Console.WriteLine("   :::::::::       ::::::::      :::    :::       :::        ::::::::::   :::::::::::   :::::::::::       ::::::::::  ");
+            Console.WriteLine("  :+:    :+:     :+:    :+:     :+:    :+:       :+:        :+:              :+:           :+:           :+:      ");
+            Console.WriteLine(" +:+    +:+     +:+    +:+     +:+    +:+       +:+        +:+              +:+           +:+           +:+ ");
+            Console.WriteLine(" +#++:++#:      +#+    +:+     +#+    +:+       +#+        +#++:++#         +#+           +#+           +#++:++#  ");
+            Console.WriteLine(" +#+    +#+     +#+    +#+     +#+    +#+       +#+        +#+              +#+           +#+           +#+");
+            Console.WriteLine(" #+#    #+#     #+#    #+#     #+#    #+#       #+#        #+#              #+#           #+#           #+#   ");
+            Console.WriteLine("###    ###      ########       ########        ########## ##########       ###           ###           ##########   ");
+            Console.ResetColor();
             Bin bin = Roll.Play();
             Bets.BetOne(bin);
             Bets.BetTwo(bin);
