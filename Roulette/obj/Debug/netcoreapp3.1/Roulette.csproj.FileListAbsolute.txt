@@ -1,0 +1,11 @@
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\obj\Debug\netcoreapp3.1\Roulette.csprojAssemblyReference.cache
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfoInputs.cache
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\obj\Debug\netcoreapp3.1\Roulette.AssemblyInfo.cs
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\bin\Debug\netcoreapp3.1\Roulette.exe
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\bin\Debug\netcoreapp3.1\Roulette.deps.json
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.json
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\bin\Debug\netcoreapp3.1\Roulette.runtimeconfig.dev.json
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\bin\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\bin\Debug\netcoreapp3.1\Roulette.pdb
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\obj\Debug\netcoreapp3.1\Roulette.dll
+C:\Users\jmphi\OneDrive\Documents\Ista322\Roulette\obj\Debug\netcoreapp3.1\Roulette.pdb
