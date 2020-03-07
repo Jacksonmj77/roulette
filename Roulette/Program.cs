@@ -8,7 +8,6 @@ namespace Roulette
         {
           
             Bin bin = Roll.Play();
-           // Console.WriteLine($"{bin.Color} {bin.Nums}"); displays the random number.
             Bets.BetOne(bin);
             Bets.BetTwo(bin);
             Bets.BetThree(bin);

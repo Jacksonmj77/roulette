@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmphi\\OneDrive\\Documents\\Ista322\\Roulette\\Roulette.csproj": {}
+    "C:\\Users\\jmphi\\OneDrive\\Documents\\GitHub\\roulette\\Roulette\\Roulette.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmphi\\OneDrive\\Documents\\Ista322\\Roulette\\Roulette.csproj": {
+    "C:\\Users\\jmphi\\OneDrive\\Documents\\GitHub\\roulette\\Roulette\\Roulette.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmphi\\OneDrive\\Documents\\Ista322\\Roulette\\Roulette.csproj",
+        "projectUniqueName": "C:\\Users\\jmphi\\OneDrive\\Documents\\GitHub\\roulette\\Roulette\\Roulette.csproj",
         "projectName": "Roulette",
-        "projectPath": "C:\\Users\\jmphi\\OneDrive\\Documents\\Ista322\\Roulette\\Roulette.csproj",
+        "projectPath": "C:\\Users\\jmphi\\OneDrive\\Documents\\GitHub\\roulette\\Roulette\\Roulette.csproj",
         "packagesPath": "C:\\Users\\jmphi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmphi\\OneDrive\\Documents\\Ista322\\Roulette\\obj\\",
+        "outputPath": "C:\\Users\\jmphi\\OneDrive\\Documents\\GitHub\\roulette\\Roulette\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jmphi\\AppData\\Roaming\\NuGet\\NuGet.Config",
